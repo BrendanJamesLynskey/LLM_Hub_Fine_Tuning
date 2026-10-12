@@ -16,7 +16,7 @@ From SFT pipelines to RLHF, DPO, GRPO and Constitutional AI &mdash; the techniqu
 
 ## Before fine-tuning
 
-How the base model is pretrained (the loop and the loss, backpropagation, AdamW, schedules, mixed precision, memory, data and model parallelism, scaling laws): the [Transformer Training](https://github.com/BrendanJamesLynskey/LLM_Hub_Transformer_Training) series ([live](https://brendanjameslynskey.github.io/LLM_Hub_Transformer_Training/)), companion to [Transformer Decoder Explained, Part 2](https://transformer-decoder-explained.vercel.app/training). Its deck 13 bridges to SFT, RLHF and DPO here.
+How the base model is pretrained (the loop and the loss, backpropagation, AdamW, schedules, mixed precision, memory, data and model parallelism, scaling laws): the [Transformer Training](https://github.com/BrendanJamesLynskey/LLM_Hub_Transformer_Training) series ([live](https://brendanjameslynskey.github.io/LLM_Hub_Transformer_Training/)), companion to [Transformer Decoder Explained, Part 2](https://transformer-training-explained.vercel.app/training). Its deck 13 bridges to SFT, RLHF and DPO here.
 
 ## Where this fits
 
