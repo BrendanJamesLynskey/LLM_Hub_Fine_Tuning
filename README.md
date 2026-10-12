@@ -14,6 +14,10 @@ From SFT pipelines to RLHF, DPO, GRPO and Constitutional AI &mdash; the techniqu
 | 04 | [DPO and Cousins](https://brendanjameslynskey.github.io/FT_04_DPO_and_Cousins/) | live | DPO derivation and beta; IPO; KTO without pairs; ORPO without a reference; GRPO (DeepSeek-R1's group-relative variant); decision tree. |
 | 05 | [Constitutional AI &amp; RLAIF](https://brendanjameslynskey.github.io/FT_05_Constitutional_AI_and_RLAIF/) | live | Two-stage CAI, critique-revision loop, constitution authoring, RLAIF, helpfulness-vs-harmlessness-vs-honesty trade-offs. |
 
+## Before fine-tuning
+
+How the base model is pretrained (the loop and the loss, backpropagation, AdamW, schedules, mixed precision, memory, data and model parallelism, scaling laws): the [Transformer Training](https://github.com/BrendanJamesLynskey/LLM_Hub_Transformer_Training) series ([live](https://brendanjameslynskey.github.io/LLM_Hub_Transformer_Training/)), companion to [Transformer Decoder Explained, Part 2](https://transformer-decoder-explained.vercel.app/training). Its deck 13 bridges to SFT, RLHF and DPO here.
+
 ## Where this fits
 
 Part of the [LLMs hub](https://github.com/BrendanJamesLynskey/LLMs) &mdash; an index of presentation series for AI/LLM engineers.
